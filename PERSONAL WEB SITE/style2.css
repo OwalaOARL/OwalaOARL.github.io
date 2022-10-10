@@ -1,0 +1,17 @@
+body{
+    background-image:url(bac4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+ul{
+    font-size: 36;
+    padding-left: 400px;
+    padding-right: 400px;
+}
+img{
+    height: 400px;
+    width: 600;
+}
